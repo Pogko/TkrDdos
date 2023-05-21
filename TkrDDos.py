@@ -26,7 +26,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print("Memulai serangan ke: %s dan Port: %s"%(orgip,port))
+print("MENYERANG KE IP: %s DAN PORT: %s DENGAN TOOLS TKRDDOS"%(orgip,port))
 
             
 
