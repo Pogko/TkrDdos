@@ -4,7 +4,7 @@ git clone https://github.com/Pogko/TkrDdos.git
 
 cd TrkDDos
 
-python2 TkrDdos.py ip port
+port ip python3 TkrDdos.py
 
 CONTOH
 
